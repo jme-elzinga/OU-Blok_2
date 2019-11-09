@@ -1,0 +1,34 @@
+Beoordeling
+Datum:08-03-2019 14:29
+Door:Fabian van den Broek
+
+Score:voldaan
+
+Terugkoppeling OP opdracht 3 CPP-Java
+
+Naam: Johan Elzinga
+Resultaat: Voldaan
+
+
+                                                    Code           Testgevallen
+
+Double getLength()                                  Goed           Goed
+
+Double getAfstand(Vector v)                         Goed           Goed
+
+Vector plus(Vector v)                               Goed           Goed
+
+Vector copy()                                       Goed           Goed
+
+Boolean equals(Vector v)                            Goed           Goed
+
+Vector maal(double d)                               Goed           Goed
+
+Boolean heeftZelfdeRichting(Vector v)               Zie opmerking  Goed
+
+Double getInproduct(Vector v)                       Goed           Goed
+
+Double getHoek()                                    Goed           Goed
+
+Opmerkingen:
+Bij bepalen van de richting moet g positief zijn. Dus als g negatief is, zijn de richtingen verschillend!

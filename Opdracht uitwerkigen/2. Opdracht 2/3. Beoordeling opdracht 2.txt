@@ -1,0 +1,22 @@
+Beoordeling
+Datum:25-02-2019 14:41
+Door:Fabian van den Broek
+
+Score:9
+
+Resultaat: 9
+
+Functionaliteit:
+Goed
+
+Klassendiagram/Ontwerp (onderdeel a):
+In bankframe neem je ook 2 attributen op voor de startrekeningen die je laat zien. Dat zijn geen goede attributen.
+
+Commentaar:
+Goed
+
+Implementatie:
+Goed
+
+Testen
+Bij het overmaken is het ook handig een test te doen met een bedrag hoger dan het saldo van de ‘van’-rekening

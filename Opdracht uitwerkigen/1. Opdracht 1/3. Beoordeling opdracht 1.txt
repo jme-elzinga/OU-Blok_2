@@ -1,0 +1,15 @@
+Beoordeling
+Datum:06-02-2019 19:58
+Door:Fabian van den Broek
+Score:voldaan
+Terugkoppeling:
+
+Functionaliteit:
+
+Goed
+
+Implementatie:
+
+Als je een waarde wilt optellen kan je schrijven: varA = varA + varB, maar mooier is: varA += varB;
+
+Het is niet nodig om aan het begin de lijst met instellingen in een aparte variabele te bewaren. Je kan waar nodig de methode getInstellingen() aanroepen.

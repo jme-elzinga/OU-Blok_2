@@ -1,0 +1,21 @@
+Beoordeling
+Datum:27-03-2019 11:57
+Door:Fabian van den Broek
+
+Score:9
+
+Beoordeling practicumopdracht OP-4
+
+Student: Johan Elzinga
+
+Cijfer                9
+
+Testen                Goed
+
+Functionaliteit       Goed
+
+Ontwerp               Goed
+
+Implementatie         Het is een goede gewoonte je attributen gelijk te initialiseren.
+
+Overige opmerkingen   -
