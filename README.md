@@ -1,2 +1,2 @@
-# OU-Blok_1
-OU CPP Java - 1ste blok 'Inleiding ObjectgeoriÃ«nteerde Analyse en Ontwerp UML'
+# OU-Blok_2
+OU CPP Java - 2de blok 'Objectgeoriënteerd programmeren'
